@@ -1,5 +1,5 @@
 <p align="right">
-<i>contact: rego7724@gmail.com/i>
+<i>contact: rego7724@gmail.com/<i>
 </p>
 
 # art-DCGAN
