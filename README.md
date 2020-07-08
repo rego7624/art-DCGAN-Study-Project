@@ -1,5 +1,6 @@
 <p align="right">
 <i>contact: rego7724@gmail.com</i>
+<i>         010-8815-7230
 </p>
 
 # art-DCGAN
